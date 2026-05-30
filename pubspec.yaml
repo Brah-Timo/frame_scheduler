@@ -1,0 +1,30 @@
+name: frame_scheduler
+description: >-
+  A smart FPS-aware task scheduler for Flutter that monitors frame performance and dynamically prioritizes, delays, or drops expensive tasks to maintain smooth animations and responsive UI.
+
+version: 1.0.0
+homepage: https://github.com/Brah-Timo/frame_scheduler
+repository: https://github.com/Brah-Timo/frame_scheduler
+issue_tracker: https://github.com/Brah-Timo/frame_scheduler/issues
+documentation: https://pub.dev/documentation/frame_scheduler/latest/
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  benchmark_harness: ^2.2.0
+
+topics:
+  - performance
+  - fps
+  - scheduler
+  - optimization
+  - games
