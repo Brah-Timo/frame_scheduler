@@ -10,6 +10,10 @@
 
 ---
 
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/b48a60d8-2711-4878-a96e-dcd2b2c789a9" />
+
+
 ## 🧠 The Problem
 
 Your Flutter app runs at 60 FPS in normal conditions. Then it needs to execute
